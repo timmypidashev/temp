@@ -44,6 +44,8 @@ white = "#ebdbb2"
 style = { shape = "Beam", blinking = "On" }
 blink_interval = 750
 unfocused_hollow = true
+
+[mouse]
 hide_when_typing = true
 
 # Shell
